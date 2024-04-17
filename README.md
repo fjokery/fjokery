@@ -31,7 +31,7 @@ I like gaming, listening to music, drink dr pepper and sometimes code 🎐
 
 
 
-<!-- When i made this for the first time i used this layout, so downbelow are some addons i will do later!!
+<!-- When i made this for the first time i used this layout, so downbelow are some addons i will do later!! (psst i will never probably do it)
 ## **🧊 Github Stats**
  <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
