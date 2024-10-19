@@ -1,26 +1,38 @@
 <div align="center">
 
-<img align="center" width="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB1dmpzbTM2eHJibGt5dDZhcXVodjQwbHJzMW9xeGh6M3M3N3FsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NfL5LsKGMqdEwN4e4e/giphy.gif">
+<img align="center" width="" src="https://github.com/fjokery/fjokery/blob/main/me.png?raw=true">
 </div>
 
 
 
 
+<h1 align="center">🌿Hello! I'm Felicia<img width="150px" align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRhOWZoNWVubjM2M2YxdWNqMzVqeXBrYXJwMzJia2J2OGQ5dXhidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dA2LiHpcU7lS4jQKKQ/giphy.gif"> </h1>
+<h3 align="center">Studying front end-dev! | open to other languages as well 👀</h3>
 
-## **🐬 Hi and welcome! I'm `Felicia`**
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJqZzVldDh2ZXE1dTB1Y2RmeDVoMWFmeHNrY2FxdTZpZGU3M3locSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZPGmSty89CrM8Mrihq/giphy.gif" width="250">
 
-<p><em>Currently studying
-</a><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJvMmE5NGlia2F5YTdwMDFxcTc4d2Q2NThkdTFyMzF3YWIwcHEyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1rmdDdcGOoeZnYj0VD/giphy.gif" width="20"> 
-</em></p>
+<br>
+<p>
+ 
+- 🔭 I’m currently studying at *University*
+
+- 🌱 I’m currently learning **Webb development**
+
+- 💬 DMs: `Open` **Discord**: [Jokery](https://discord.com/users/363460698656735233)
+
+- 🌎 I know **English & Swedish**
+  
+- 📍 From **Sweden**
+
+</a>
+</p>
 
 <!-- everything i know how to --->
 
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-### 📫 Find me!
-Discord: [Jokery](https://discord.com/users/363460698656735233)
+
 
 <br><br>
 
