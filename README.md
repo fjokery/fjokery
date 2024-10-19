@@ -16,7 +16,7 @@
  
 - 🔭 I’m currently studying at *University*
 
-- 🌱 I’m currently learning **Webb development**
+- 🌱 I’m currently learning **Web-development**
 
 - 💬 DMs: `Open` **Discord**: [Jokery](https://discord.com/users/363460698656735233)
 
